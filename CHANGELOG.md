@@ -1,3 +1,7 @@
+## 1.2.0
+
+*  Support flutter version 3.24
+  
 ## 1.1.0
 
 *  Prevent Platform Exception when using keychain
